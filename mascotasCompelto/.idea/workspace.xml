@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50163f47-dae8-4d0a-895b-b0cfed040e84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mascotas" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Hoel Gaitan\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kIgFij9LTOuowpZa1EfbaEP4uI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/ar/edu/undec/mascotasCompelto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mascotas" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UNdeC\4° año\Programacion III\Mascotas-Completo\mascotasCompelto\src\test" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ar.edu.undec.mascotasCompelto.exceptions" />
+      <recent name="ar.edu.undec.mascotasCompelto.repositorio" />
+      <recent name="ar.edu.undec.mascotasCompelto.usecase" />
+      <recent name="ar.edu.undec.mascotasCompelto" />
+      <recent name="ar.edu.undec.mascotasCompelto.domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CrearMascotaUseCaseUnitTest.crearMascota_mascotaExiste_MascotaExisteException">
+    <configuration name="CrearMascotaUseCaseUnitTest.crearMascota_mascotaExiste_MascotaExisteException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mascotasCompelto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.undec.mascotasCompelto.usecaseunittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.undec.mascotasCompelto.usecaseunittest" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.undec.mascotasCompelto.usecaseunittest.CrearMascotaUseCaseUnitTest" />
+      <option name="METHOD_NAME" value="crearMascota_mascotaExiste_MascotaExisteException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrearMascotaUseCaseUnitTest.crearMascota_mascotaNoExiste_CrearMascota" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mascotasCompelto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.undec.mascotasCompelto.usecaseunittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.undec.mascotasCompelto.usecaseunittest" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.undec.mascotasCompelto.usecaseunittest.CrearMascotaUseCaseUnitTest" />
+      <option name="METHOD_NAME" value="crearMascota_mascotaNoExiste_CrearMascota" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MascotasCompeltoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mascotasCompelto" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ar.edu.undec.mascotasCompelto.MascotasCompeltoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CrearMascotaUseCaseUnitTest.crearMascota_mascotaExiste_MascotaExisteException" />
+        <item itemvalue="JUnit.CrearMascotaUseCaseUnitTest.crearMascota_mascotaNoExiste_CrearMascota" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50163f47-dae8-4d0a-895b-b0cfed040e84" name="Default Changelist" comment="" />
+      <created>1605393419382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605393419382</updated>
+      <workItem from="1605393420488" duration="841000" />
+      <workItem from="1605396248811" duration="9157000" />
+      <workItem from="1605461837455" duration="5819000" />
+      <workItem from="1605477745643" duration="4010000" />
+      <workItem from="1605654415945" duration="5264000" />
+      <workItem from="1605715016506" duration="8241000" />
+      <workItem from="1605725071925" duration="538000" />
+      <workItem from="1605725639369" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1605397726458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1605397726458" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1605722128201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605722128201" />
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1605478350241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1605478350241" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605400950302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605400950302" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605725728338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605725728338" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1605724982823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605724982823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1605724982823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605724982823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1605724982823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605724982823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1605724982823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605724982823" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1605470584474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605470584474" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1605470584473">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605470584473" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1605470584473">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605470584473" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1605470584474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605470584474" />
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1605405456709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605405456709" />
+    <state width="1323" height="223" key="GridCell.Tab.2.center" timestamp="1605405456709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1605405456709" />
+    <state width="1323" height="223" key="GridCell.Tab.2.left" timestamp="1605405456693">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1605405456693" />
+    <state width="1323" height="223" key="GridCell.Tab.2.right" timestamp="1605405456709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1605405456709" />
+    <state x="298" y="0" key="SettingsEditor" timestamp="1605399319862">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="298" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605399319862" />
+    <state x="498" y="142" key="chooseDestDirectoryDialog" timestamp="1605478345877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1605478345877" />
+    <state x="459" y="122" key="refactoring.ChangeSignatureDialog" timestamp="1605462579056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="122" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1605462579056" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1605656470576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605656470576" />
+  </component>
+</project>
